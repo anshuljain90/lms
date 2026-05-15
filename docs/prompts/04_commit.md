@@ -1,0 +1,1 @@
+follow industry best practice and commit the staged files and DO NOT mention claude code in the commit message 
